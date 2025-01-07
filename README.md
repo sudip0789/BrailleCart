@@ -29,3 +29,4 @@
     ```bash
     streamlit run braillecart_app.py
 
+### The detailed report and results are available [here](https://github.com/sudip0789/BrailleCart/blob/main/Final_Project_Report.pdf)
